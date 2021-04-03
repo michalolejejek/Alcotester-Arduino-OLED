@@ -8,7 +8,7 @@ Do make this project you will need:
 - You can also use led and buzzer
 
 Don't use it as real breathanalyzer it is kind of toy and it can show you wrong values 
-czujnik
 
 Don't suggest yourself that you can driving or no! 
+
 Never drive after drinking!
